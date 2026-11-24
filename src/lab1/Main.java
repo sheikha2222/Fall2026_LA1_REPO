@@ -10,6 +10,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		System.out.println("Software Evolution and Maintenance - Lab 1");
+		System.out.println("Shaikha Alhammadi");
 		System.out.println("Temperature of 25 C in Fahrenheit: " + celsiusToFahrenheit(25));
 	}
 
